@@ -18,9 +18,9 @@ using data from the EIA-860 and EIA-923 surveys (2019). The analysis includes:
 
 | File | Description |
 |------|-------------|
-| `Yash_Runghoo_02276750.mlx` | MATLAB Live Script – main analysis and report |
-| `Yash_Runghoo_02276750.csv` | Hourly wind speed data (2019) for the plant location |
-| `Yash_Runghoo_02276750.pdf` | PDF export of the Live Script |
+| `Report.mlx` | MATLAB Live Script – main analysis and report |
+| `Wind_speef.csv` | Hourly wind speed data (2019) for the plant location |
+| `Report.pdf` | PDF export of the Live Script |
 
 ## Data Sources
 
