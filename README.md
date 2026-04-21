@@ -1,4 +1,4 @@
-# Coursework 1 – [Module Name]
+# Coursework 1 – [Sustainable Electrical Systems]
 
 Analysis of US energy generation data using MATLAB.
 
