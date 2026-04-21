@@ -19,7 +19,7 @@ using data from the EIA-860 and EIA-923 surveys (2019). The analysis includes:
 | File | Description |
 |------|-------------|
 | `Report.mlx` | MATLAB Live Script – main analysis and report |
-| `Wind_speef.csv` | Hourly wind speed data (2019) for the plant location |
+| `Wind_speed.csv` | Hourly wind speed data (2019) for the plant location |
 | `Report.pdf` | PDF export of the Live Script |
 
 ## Data Sources
